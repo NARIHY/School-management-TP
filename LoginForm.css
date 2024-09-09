@@ -1,0 +1,12 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 11 juil. 2024, 16:16:15
+    Author     : RANDRIANARISOA
+*/
+.bg-form {
+    -fx-background-color: linear-gradient{to bottom right, #0d9642, #la772c};
+}
+
