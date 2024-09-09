@@ -1,8 +1,8 @@
  # Gestion Scolaire JavaFX
-* Description 
+## Description 
 Ce projet a pour objectif de développer une application de gestion scolaire à l'aide de JavaFX et du JDK 22. L'application est encore en cours de développement et n'est pas entièrement fonctionnelle.
 
-* Objectifs 
+## Objectifs 
 - Gestion des élèves: Enregistrement, modification, suppression.
 - Gestion des notes: Saisie, consultation, calcul des moyennes.
 - Gestion des matières: Création, modification.
